@@ -1,0 +1,27 @@
+[
+	
+		{
+		  "title"      : "Kurs Einsteiger",
+		  "category"   : "offer",
+		  "url"        : "/offer/kurs-einsteiger/",
+		  "date"       : "2014-03-19 00:00:00 +0100",
+		  "shortdate"  : "19.03 2014"
+		} ,
+	
+		{
+		  "title"      : "Willkommen",
+		  "category"   : "blog",
+		  "url"        : "/blog/willkommen/",
+		  "date"       : "2014-03-16 00:00:00 +0100",
+		  "shortdate"  : "16.03 2014"
+		} ,
+	
+		{
+		  "title"      : "Kurs Fortgeschritten",
+		  "category"   : "offer",
+		  "url"        : "/offer/kurs-fortgeschritten/",
+		  "date"       : "2014-03-16 00:00:00 +0100",
+		  "shortdate"  : "16.03 2014"
+		} 
+	
+]
